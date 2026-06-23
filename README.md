@@ -20,6 +20,18 @@ The dataset was cleaned and transformed using **Power Query** and analyzed using
 
 ---
 
+## 📈 Dashboard Visualizations
+
+### Car Sales Overview Dashboard
+
+![Car Sales Overview](Dashboard/Car_Sales_Overview.png)
+
+### Customer & Regional Analysis
+
+![Customer Regional Analysis](Dashboard/Customer_Regional_Analysis.png)
+
+---
+
 ## 📈 Dashboard Insights
 
 ### Total Price by Color
